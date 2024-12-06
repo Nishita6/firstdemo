@@ -1,2 +1,3 @@
 # firstdemo
-first git repo
+this is my first repo
+Author- Nishita Gupta
