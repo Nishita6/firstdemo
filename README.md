@@ -1,3 +1,3 @@
 # firstdemo
 this is my first repo
-Author- Nishita Gupta
+Author- Nishita Gupta(STUDENT)
